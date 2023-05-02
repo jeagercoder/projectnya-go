@@ -8,6 +8,6 @@ import (
 
 func main() {
 	fmt.Println("main")
-	hello := say_hello.SayHelloMamang()
-	fmt.Println(hello)
+	str := say_hello.SayHelloMamang()
+	fmt.Println(str)
 }
